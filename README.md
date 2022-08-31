@@ -1,2 +1,2 @@
 # IntroToProg-Python-Mod08
- Files for module08
+This repository contains files for module08.
